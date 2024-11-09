@@ -1,6 +1,6 @@
 # Gym Website
 This repository contains the source code for a gym website, built with HTML, CSS, and JavaScript. You can view the website here:
-https://mt16024.github.io/Gym_website/
+https://mt16204.github.io/Gym_website/
 
 # ScreenShot
 Home: 
