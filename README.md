@@ -1,9 +1,8 @@
 # Gym Website
-This repository contains the source code for a gym website, built with HTML, CSS, and JavaScript. You can view the website here:
-https://mt16204.github.io/Gym_website/
+- Đây là dự án cho một gym website, được xây dựng bằng HTML, CSS, và JavaScript.
 
 # ScreenShot
-Home: 
+Home:
 <img width="1250" alt="home" src="https://github.com/user-attachments/assets/c1cf71fc-1fa3-4b7a-a9db-65284ea362f0">
 
 Services: 
@@ -18,34 +17,26 @@ Plans:
 Reviews:
 <img width="1255" alt="review" src="https://github.com/user-attachments/assets/084ab609-e9a3-4b23-a850-63545b5ffa2f">
 
-# Features
-* Responsive design for various screen sizes
-* Interactive navigation menu
-* Animated text using Typed.js
-* Sections for services, about us, membership plans, and customer reviews
-* Social media links in the footer
+# Tính Năng
+* Thiết kế đáp ứng cho các kích thước màn hình khác nhau.
+* Menu điều hướng tương tác.
+* Văn bản động sử dụng Typed.js.
+* Các phần dịch vụ, giới thiệu, kế hoạch thành viên và đánh giá khách hàng.
+* Liên kết mạng xã hội ở phần footer.
 
-# Technologies Used
+# Công Nghệ Sử Dụng
 * HTML
 * CSS
 * JavaScript
   
-# File Structure
-* index.html - Main HTML file
-* style.css - CSS styles
-* script.js - JavaScript for interactivity
-* assets/ - Directory for images and other assets
+# Cấu Trúc Thư Mục
+* index.html - Tệp HTML chính.
+* style.css - Tệp CSS trang trí giao diện.
+* script.js - JavaScript cho các tương tác.
+* assets/ - Thư mục chứa hình ảnh và các tài nguyên khác.
 
-# Installation
-To run the gym website locally, follow these steps:
-* Clone the repository: `https://github.com/MT16024/Gym_website`
-* Navigate to the project directory: `cd Gym_website`
-* Open the `index.html` file
-
-# Usage
-Navigate through the website using the menu at the top. The site includes the following sections:
-* Home
-* Services
-* About Us
-* Membership Plans
-* Customer Reviews
+# Cài Đặt
+Để chạy website gym trên máy tính cá nhân, làm theo các bước sau:
+* Clone dự án về: `https://github.com/MT16024/Gym_website`.
+* Di chuyển đến thư mục chứa dự án: `cd Gym_website`.
+* Mở và chạy file `index.html`.
